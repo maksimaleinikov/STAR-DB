@@ -4,7 +4,7 @@ import Header from "../header/header";
 import ItemList from "../item-list/item-list";
 import PersonDetails from "../person-details/person-details";
 import RandomPlanet from "../random-planet/random-planet";
-
+import ErrorIndicator from "../error-indicator";
 import "./app.css";
 
 export default class App extends Component {

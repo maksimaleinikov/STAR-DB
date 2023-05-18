@@ -18,3 +18,9 @@
 .person-details .list-group-item .term {
   margin-right: 0.5rem;
 }
+.list-group .list-group-item {
+  cursor: pointer;
+}
+.list-group .list-group-item:hover {
+  background-color: #444;
+}
